@@ -44,10 +44,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rizkysyp/rizkysyp/blob/output/snake.svg" alt="Snake animation" />
-
-###
